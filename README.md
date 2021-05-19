@@ -28,9 +28,9 @@
 <h3 align="center">Connect with me:</h3>
 
  <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Instagram"><img src="https://raw.githubusercontent.com/deeptea22/deeptea22/main/icons/instagram.svg" width="30px" height="30px"></a>
+    <a href="https://www.instagram.com/deepthiiiii_/" alt="Instagram"><img src="https://raw.githubusercontent.com/deeptea22/deeptea22/main/icons/instagram.svg" width="30px" height="30px"></a>
     <a href="https://www.linkedin.com/in/deepthi-m22/" alt="Linkedin"><img src="https://github.com/deeptea22/deeptea22/blob/main/icons/linkedin.svg" width="30px" height="30px"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/deeptea22/deeptea22/main/icons/mail-inbox-app.svg" width="30px" height="30px"></a>
+    <a href="mailto:deepthi.m.g.s@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/deeptea22/deeptea22/main/icons/mail-inbox-app.svg" width="30px" height="30px"></a>
     <a href="https://deeptea22.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/deeptea22/deeptea22/main/icons/globe.svg" width="30px" height="30px"></a>
   </p>
   
