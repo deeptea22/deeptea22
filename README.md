@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on something cool :wink:
 
-- 🌱 I’m currently learning **R programming**
+- 🌱 I’m currently learning **Bootstrap**
 
 - 💬 Ask me about **Java and Python**
 
