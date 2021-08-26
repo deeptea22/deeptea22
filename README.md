@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on something cool :wink:
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Java and Python**
 
 - 📖 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/deepthimgs/articles)
 
-- 📫 How to reach me **deepthi.m.g.s@gmail.com**
+- 📫 How to reach me: **deepthi.m.g.s@gmail.com**
 
 - ⚡ Fun fact: I 💖 🎵
 
