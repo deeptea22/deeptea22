@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Java and Python**
 
-- 📖 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/deepthimgs/articles)
-
 - 📫 How to reach me: **deepthi.m.g.s@gmail.com**
 
 - ⚡ Fun fact: I 💖 🎵
