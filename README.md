@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on revamping [Customer Satisfaction Index](https://github.com/deeptea22/tcsinframind)
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **React** and **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://deeptea22.github.io/Portfolio/](https://deeptea22.github.io/Portfolio/)
 
